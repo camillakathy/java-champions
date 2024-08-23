@@ -2,7 +2,7 @@
 
 image:site/assets/img/duke_champion.png[align="center"]
 
-== What is a Java Champion?
+== What is a Java Champion? 
 
 One of the best descriptions was given in the 2009 JavaOne
 Conference PDF: 
