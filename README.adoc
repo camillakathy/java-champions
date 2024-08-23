@@ -5,7 +5,7 @@ image:site/assets/img/duke_champion.png[align="center"]
 == What is a Java Champion?
 
 One of the best descriptions was given in the 2009 JavaOne
-Conference PDF:
+Conference PDF: 
 
 "The Java Champions community was started by Sun at the 2005
 JavaOne conference to recognize key influencers in the Java
